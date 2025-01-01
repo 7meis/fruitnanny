@@ -1,6 +1,6 @@
 let config = {
-    "baby_name": "Matthew",
-    "baby_birthday": "2016-03-15",
+    "baby_name": "Strampli",
+    "baby_birthday": "2024-09-18",
     "temp_unit": "C"
 }
 module.exports = config;
